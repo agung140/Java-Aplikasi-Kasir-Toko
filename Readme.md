@@ -2,7 +2,6 @@
 
 # Description:
 
-   This project is adopted to help my friend with an assignment in the multi-media class. The objective is to estimate the speed of vehicles in traffic videos. The problem is separated into 3 sub-problem: detection, tracking and speed estimation.
    
    1.import database yang berada di folder db dengan nama "db_tokoagung".
 
